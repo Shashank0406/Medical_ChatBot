@@ -10,5 +10,6 @@ touch .env
 touch app.py
 touch research/ttrails.ipynb
 touch requirements.txt
+touch setup.py
 
 echo "Directory and files created successfully!"
