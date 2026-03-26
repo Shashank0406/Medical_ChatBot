@@ -9,4 +9,5 @@ langchain-community==0.3.26
 ipykernel==6.25.0
 langchain-huggingface
 langchain_groq
+streamlit
 -e .
