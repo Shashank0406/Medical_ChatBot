@@ -9,6 +9,12 @@ A sophisticated AI-powered medical assistant that leverages Retrieval-Augmented 
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 🌐 Live Demo
+
+**Try the Medical ChatBot now**: [https://shashankmedicalchatbot.streamlit.app](https://shashankmedicalchatbot.streamlit.app) ✨
+
+*Note: The live demo is hosted on Streamlit Cloud. Start asking medical questions and get instant AI-powered responses!*
+
 ## ✨ Features
 
 - 🤖 **RAG-Powered Responses**: Uses Retrieval-Augmented Generation for accurate medical information
